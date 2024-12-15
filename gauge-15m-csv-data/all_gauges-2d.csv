@@ -1,5 +1,4 @@
 Timestamp (UTC),Osney-Lock-rainfall-15min-Qualified,Iffley-Lock-height-data-downstream,New-Botley-height-data,Minns-Estate-height-data,Osney-Lock-height-data-downstream,Godstow-Lock-height-data-downstream,Kings-Lock-height-data-downstream,Eynsham-Lock-height-data-downstream,Pinkhill-Lock-height-data-downstream,Farmoor-height-data,Northmoor-Lock-height-data-downstream,Shifford-Lock-height-data-downstream,Rushey-Lock-height-data-downstream,Radcot-Lock-height-data-downstream,Grafton-Lock-height-data-downstream,Buscot-Lock-height-data-downstream,St-Johns-Lock-height-data-downstream,Hannington-Bridge-height-data
-2024-12-13T03:30:00Z,0.0,2.6,2.16,2.09,3.13,2.58,2.22,2.68,2.51,1.09,3.06,3.65,3.15,2.74,2.35,2.6,1.89,3.65
 2024-12-13T03:45:00Z,0.0,2.65,2.16,2.09,3.13,2.58,2.23,2.69,2.51,1.09,3.06,3.65,3.15,2.74,2.35,2.6,1.87,3.65
 2024-12-13T04:00:00Z,0.0,2.6,2.16,2.09,3.13,2.58,2.22,2.69,2.51,1.09,3.06,3.65,3.15,2.74,2.35,2.6,1.89,3.65
 2024-12-13T04:15:00Z,0.0,2.63,2.16,2.09,3.13,2.58,2.23,2.68,2.51,1.08,3.06,3.64,3.15,2.74,2.35,2.59,1.89,3.65
@@ -198,4 +197,5 @@ Timestamp (UTC),Osney-Lock-rainfall-15min-Qualified,Iffley-Lock-height-data-down
 2024-12-15T02:15:00Z,0.0,2.56,1.9,1.84,2.97,2.44,2.15,2.5,2.31,0.88,2.81,3.42,2.96,2.65,2.3,2.49,1.84,3.49
 2024-12-15T02:30:00Z,0.0,2.56,1.89,1.84,2.97,2.44,2.16,2.5,2.32,0.89,2.81,3.42,2.96,2.65,2.3,2.49,1.84,3.49
 2024-12-15T02:45:00Z,0.0,2.56,1.89,1.84,2.95,2.45,2.16,2.5,2.31,0.88,2.81,3.41,2.96,2.65,2.3,2.49,1.83,3.49
-2024-12-15T03:00:00Z,,2.57,1.89,1.83,2.97,2.44,2.16,2.5,2.31,0.88,2.81,3.41,2.96,2.64,2.3,,1.84,3.49
+2024-12-15T03:00:00Z,0.0,2.57,1.89,1.83,2.97,2.44,2.16,2.5,2.31,0.88,2.81,3.41,2.96,2.64,2.3,2.49,1.84,3.49
+2024-12-15T03:15:00Z,0.0,2.58,1.88,1.83,2.95,2.45,2.15,2.5,2.31,0.88,2.8,3.41,2.96,2.64,2.3,2.49,1.84,3.49
